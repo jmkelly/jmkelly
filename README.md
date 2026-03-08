@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm James, a software developer from Woolgoolga, Australia.
+I'm James, a senior software engineer from Woolgoolga, Australia.
 
 ### Tech Stack
 
