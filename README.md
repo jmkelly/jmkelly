@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**jmkelly/jmkelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm James, a software developer from Woolgoolga, Australia.
 
-Here are some ideas to get you started:
+### Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Primary:** C# / .NET
+- **Also working with:** Lua (Neovim), Python
+
+### Featured Projects
+
+- [task](https://github.com/jmkelly/task) - Task management system with CLI, REST API, and Kanban UI
+- [comms](https://github.com/jmkelly/comms) - Local communications system with CLI, API, and messaging UI
+- [GooseHtml](https://github.com/jmkelly/GooseHtml) - Type-safe HTML generation library for C#
+- [dbt.nvim](https://github.com/jmkelly/dbt.nvim) - Neovim plugin for .NET build and test workflows
+- [dotfiles](https://github.com/jmkelly/dotfiles) - Neovim and development environment config
