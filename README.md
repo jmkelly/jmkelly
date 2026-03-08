@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-I'm James, a senior software engineer from Woolgoolga, Australia.
+I'm James
+  - Techical founder of [quezzi](https://quezzi.com)
+  - Senior software engineer from Woolgoolga, Australia.  
 
 ### Tech Stack
 
